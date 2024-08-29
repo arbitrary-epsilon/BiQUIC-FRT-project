@@ -7,6 +7,7 @@ Contains a simulation of the BiQUIC trap along with plotting the atom distributi
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 helix-BiQUIC-final:
+
 This notebook uses helical coils to simulate the BiQUIC trap. It also considers an extra 2/3rd turn along with input wires in each coil. 
 As of now, the model has been tested for quad current = 2.919A and bias current = 4.014A. 
 The trap frequencies and bottom for this configuration as measured in the lab are - 25, 62(+/-5), 61(+/-5); trap bottom = 1.38G. 
@@ -23,6 +24,7 @@ Test if the simulation works for other sets of quad and bias currents + external
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 atom distribution:
+
 The magnetic field magnitudes by BiQUIC along the three axes, and other required information are imported directly from the helix-BiQUIC-final notebook using 'pickle' to save time by avoiding re-calculation of the fields. 
 A maxwell-boltzmann distribution of 4He atoms is defined at 10 micro-Kelvin. 
 The photon scattering rate for a Gaussian laser beam in wavelength range scanned close to the resonant frequency of the atoms in the trap is plotted. 
