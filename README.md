@@ -13,14 +13,14 @@ As of now, the model has been tested for quad current = 2.919A and bias current 
 The trap frequencies and bottom for this configuration as measured in the lab are - 25, 62(+/-5), 61(+/-5); trap bottom = 1.38G. \
 The x-axis is along the -ve direction of propagation of the LVIS beam (same as the x-axis considered in the lab). \
 The y and z axes for the lab and the simulation are interchanged. \
-In this model, the z-axis is through the axis of the quad coils. The x-axis is parallel to the line joining the centers of the quad and bias coils. \
+In this model, the z-axis is through the axis of the quad coils. The x-axis is parallel to the line joining the centers of the quad and bias coils. 
 
 Improvements needed:
 
 Measure the bias field more accurately. (not very feasible) \
 Alternatively, add the nuller coils to the simulation. \
 As of now, the trap frequencies along the y and z axes fit within the uncertainty. \
-Test if the simulation works for other sets of quad and bias currents + external bias fields. \
+Test if the simulation works for other sets of quad and bias currents + external bias fields. 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
