@@ -8,8 +8,8 @@ Contains a simulation of the BiQUIC trap along with plotting the atom distributi
 
 helix-BiQUIC-final:
 
-This notebook uses helical coils to simulate the BiQUIC trap. It also considers an extra 2/3rd turn along with input wires in each coil. 
-As of now, the model has been tested for quad current = 2.919A and bias current = 4.014A. 
+This notebook uses helical coils to simulate the BiQUIC trap. It also considers an extra 2/3rd turn along with input wires in each coil. \
+As of now, the model has been tested for quad current = 2.919A and bias current = 4.014A. \
 The trap frequencies and bottom for this configuration as measured in the lab are - 25, 62(+/-5), 61(+/-5); trap bottom = 1.38G. 
 The x-axis is along the -ve direction of propagation of the LVIS beam (same as the x-axis considered in the lab). 
 The y and z axes for the lab and the simulation are interchanged. 
