@@ -1,4 +1,4 @@
-# BiQUIC-FRT-project
+# BiQUIC
 
 This work is done as a part of my ANU-FRT 2024 project with the He*-BEC group under the supervision of Prof. Andrew Truscott and Dr. Sean Hodgman.
 
